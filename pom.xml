@@ -4,12 +4,13 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.apache.tomcat</groupId>
-    <artifactId>tomcat-study</artifactId>
-    <name>Tomcat 6.0 Study</name>
+    <artifactId>tomcat-learning</artifactId>
+    <name>Tomcat Learning</name>
     <version>1.0</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>tomcat-6.0.44-src</module>
+        <module>tomcat-6.0.44</module>
+        <module>tomcat-8.0.53</module>
     </modules>
 </project>
